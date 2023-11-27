@@ -7,7 +7,7 @@ sudo apt -y update && apt -y upgrade
 FAZENDO DOWNLOAD DO INSTALADOR & INICIANDO A PRIMEIRA INSTALAÇÃO (USAR SOMENTE PARA PRIMEIRA INSTALAÇÃO):
 
 ```bash
-sudo apt install -y git && git clone https://github.com/launcherbr/instalador.git instalador && sudo chmod -R 777 instalador  && cd instalador  && sudo ./install_primaria
+sudo apt install -y git && git clone https://github.com/alcidesgithub/instalador-whasaas.git instalador-whasaas && sudo chmod -R 777 instalador-whasaas  && cd instalador-whasaas  && sudo ./install_primaria
 ```
 
 ## Requisitos
